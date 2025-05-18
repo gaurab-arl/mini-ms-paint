@@ -1,0 +1,12 @@
+readimagefile("deep_space_background.bmp", 0, 0, SCREEN_WIDTH, SCREEN_HEIGHT);
+ - create a image at the start of 0 , 0 
+ - with image size of screen width and screen hight
+ 
+if(ismouseclick(WM_RBUTTONDOWN))
+		getmouseclick(WM_RBUTTONDOWN , x , y);
+		clearmouseclick(WM_RBUTTONDOWN);
+ - ismouseclick checked if mouse is clicked 
+ - getmouseclick get the coordinate for clicked place
+ - clearmouseclick clear the clicked state
+ 
+ 
