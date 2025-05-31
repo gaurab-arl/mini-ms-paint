@@ -22,7 +22,7 @@ A simple drawing application inspired by Microsoft Paint, built using C++ with g
 
 ## Installation
 
-1. Clone this repository:
+1. Clone this repository::
    ```bash
    git clone https://github.com/yourusername/mini-ms-paint.git
 2. Open the project in your preferred C++ IDE
